@@ -64,5 +64,114 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-myenergi is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://myenergi.com/
+myenergi designs and manufactures renewable energy products that enable homeowners to generate, store, and use clean electricity. Their portfolio includes the Zappi EV charger, the Eddi solar diverter, and the Libbi battery storage system, all aimed at making eco‑energy simple and accessible. The company operates globally, offering products, an app, and support for integrating solar, wind, and grid power into everyday life.
+
+**Areas:** Company · Renewable Energy · Home Energy · EV Charging · Solar · Battery Storage
+
+## myenergi on APIs.io
+
+Everything profiled for myenergi is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/myenergi/](https://apis.io/providers/myenergi/)** — or go straight to one of the APIs or properties below.
+
+### APIs (5)
+
+- [myenergi Command API](https://apis.io/apis/myenergi/myenergi-command-api/) — The Command API from myenergi — 3 operation(s) for command.
+- [myenergi Device API](https://apis.io/apis/myenergi/myenergi-device-api/) — The Device API from myenergi — 4 operation(s) for device.
+- [myenergi Device settings API](https://apis.io/apis/myenergi/myenergi-device-settings-api/) — The Device settings API from myenergi — 1 operation(s) for device settings.
+- [myenergi Devices API](https://apis.io/apis/myenergi/myenergi-devices-api/) — The Devices API from myenergi — 4 operation(s) for devices.
+- [myenergi Grid Pay API](https://apis.io/apis/myenergi/myenergi-gridpay-api/) — The GridPay API from myenergi — 4 operation(s) for gridpay.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [myenergi Agentic Access](https://apis.io/agentic-access/myenergi/myenergi-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [myenergi API Rules](https://apis.io/rules/myenergi/myenergi-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [myenergi Authentication](https://apis.io/security/myenergi/myenergi-authentication/)
+- [myenergi Domain Security](https://apis.io/security/myenergi/myenergi-domain-security/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [myenergi Rate Limits](https://apis.io/rate-limits/myenergi/myenergi-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://myenergi.com/)
+- [Documentation](https://www.myenergi.com/)
+- [Support](https://support.myenergi.com/hc/en-gb)
+- [Terms of service](https://www.myenergi.com/terms-and-conditions/)
+- [Privacy policy](https://www.myenergi.com/terms-and-conditions/privacy-policy/)
+- [Status](https://status.myenergi.com/)
+
+## API Evangelist rating
+
+**Kin Score 43.0** — developing · rubric 0.28.0 · scored 2026-11-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 75.0 |
+| Contract quality | 41.1 |
+| Contract governance | 79.1 |
+| Operational transparency | 14.3 |
+| Developer ergonomics | 39.8 |
+| Access clarity | 27.7 |
+
+**Agent readiness 51.6** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 15.6** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/myenergi/](https://apis.io/providers/myenergi/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for myenergi: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/myenergi/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).

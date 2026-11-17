@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-myenergi designs and manufactures renewable energy products that enable homeowners to generate, store, and use clean electricity. Their portfolio includes the Zappi EV charger, the Eddi solar diverter, and the Libbi battery storage system, all aimed at making eco‑energy simple and accessible. The company operates globally, offering products, an app, and support for integrating solar, wind, and grid power into everyday life.
+myenergi designs and manufactures renewable energy products that enable households and businesses to generate, store, and use clean electricity. Their portfolio includes the Zappi EV charger, the Eddi solar diverter, and the Libbi battery storage system, all aimed at making eco‑energy simple and accessible. The company operates globally, offering products tailored to various markets and providing support through a dedicated installer network and online resources.
 
-**Areas:** Company · Renewable Energy · Home Energy · EV Charging · Solar · Battery Storage
+**Areas:** Company · Renewable Energy · EV Charging · Solar · Battery Storage
 
 ## myenergi on APIs.io
 
@@ -103,37 +103,33 @@ Authentication, trust centre, and vulnerability disclosure.
 - [myenergi Authentication](https://apis.io/security/myenergi/myenergi-authentication/)
 - [myenergi Domain Security](https://apis.io/security/myenergi/myenergi-domain-security/)
 
-#### Rate limits (1)
-
-Published request limits.
-
-- [myenergi Rate Limits](https://apis.io/rate-limits/myenergi/myenergi-rate-limits/)
-
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://myenergi.com/)
-- [Documentation](https://www.myenergi.com/)
+- [Website](https://www.myenergi.com/)
+- [Documentation](https://support.myenergi.com/hc/en-gb)
+- [Getting started](https://support.myenergi.com/hc/en-gb/articles/5209609055377-Connect-your-myenergi-product-to-Wi-Fi-WiFi-setup-and-offline-fixes)
 - [Support](https://support.myenergi.com/hc/en-gb)
+- [Blog](https://www.myenergi.com/news/)
 - [Terms of service](https://www.myenergi.com/terms-and-conditions/)
 - [Privacy policy](https://www.myenergi.com/terms-and-conditions/privacy-policy/)
 - [Status](https://status.myenergi.com/)
 
 ## API Evangelist rating
 
-**Kin Score 43.0** — developing · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 46.8** — developing · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
-| Discoverability | 75.0 |
+| Discoverability | 62.5 |
 | Contract quality | 41.1 |
 | Contract governance | 79.1 |
-| Operational transparency | 14.3 |
-| Developer ergonomics | 39.8 |
-| Access clarity | 27.7 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 54.0 |
+| Access clarity | 34.2 |
 
-**Agent readiness 51.6** — agent-ready (gated down from agent-native)
+**Agent readiness 44.9** — agent-ready (gated down from agent-native)
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -145,7 +141,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Idempotency | — |
 | Error Semantics | derived (partial credit) |
 | OpenAPI Examples | — |
-| Rate Limit Signal | documented (partial credit) |
+| Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | unknown |
 | Well Known Catalog | yes |
@@ -154,13 +150,13 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Dry Run Mode | — |
 | Delegated Identity | served (partial credit) |
 | Protected Resource Metadata | verified |
-| Dynamic Client Registration | yes |
+| Dynamic Client Registration | — |
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | distinct |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 15.6** — Energy & Utilities
+**Regulatory alignment 20.5** — Energy & Utilities
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/myenergi/](https://apis.io/providers/myenergi/).
 
